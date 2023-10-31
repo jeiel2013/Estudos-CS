@@ -1,0 +1,16 @@
+C:\Users\jeiel.alves\Desktop\Univale\Prog II\Semana 2\Laço-repetição\laco_de_repeticao\bin\Debug\net5.0\laco_de_repeticao.exe
+C:\Users\jeiel.alves\Desktop\Univale\Prog II\Semana 2\Laço-repetição\laco_de_repeticao\bin\Debug\net5.0\laco_de_repeticao.deps.json
+C:\Users\jeiel.alves\Desktop\Univale\Prog II\Semana 2\Laço-repetição\laco_de_repeticao\bin\Debug\net5.0\laco_de_repeticao.runtimeconfig.json
+C:\Users\jeiel.alves\Desktop\Univale\Prog II\Semana 2\Laço-repetição\laco_de_repeticao\bin\Debug\net5.0\laco_de_repeticao.runtimeconfig.dev.json
+C:\Users\jeiel.alves\Desktop\Univale\Prog II\Semana 2\Laço-repetição\laco_de_repeticao\bin\Debug\net5.0\laco_de_repeticao.dll
+C:\Users\jeiel.alves\Desktop\Univale\Prog II\Semana 2\Laço-repetição\laco_de_repeticao\bin\Debug\net5.0\ref\laco_de_repeticao.dll
+C:\Users\jeiel.alves\Desktop\Univale\Prog II\Semana 2\Laço-repetição\laco_de_repeticao\bin\Debug\net5.0\laco_de_repeticao.pdb
+C:\Users\jeiel.alves\Desktop\Univale\Prog II\Semana 2\Laço-repetição\laco_de_repeticao\obj\Debug\net5.0\laco_de_repeticao.csproj.AssemblyReference.cache
+C:\Users\jeiel.alves\Desktop\Univale\Prog II\Semana 2\Laço-repetição\laco_de_repeticao\obj\Debug\net5.0\laco_de_repeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeiel.alves\Desktop\Univale\Prog II\Semana 2\Laço-repetição\laco_de_repeticao\obj\Debug\net5.0\laco_de_repeticao.AssemblyInfoInputs.cache
+C:\Users\jeiel.alves\Desktop\Univale\Prog II\Semana 2\Laço-repetição\laco_de_repeticao\obj\Debug\net5.0\laco_de_repeticao.AssemblyInfo.cs
+C:\Users\jeiel.alves\Desktop\Univale\Prog II\Semana 2\Laço-repetição\laco_de_repeticao\obj\Debug\net5.0\laco_de_repeticao.csproj.CoreCompileInputs.cache
+C:\Users\jeiel.alves\Desktop\Univale\Prog II\Semana 2\Laço-repetição\laco_de_repeticao\obj\Debug\net5.0\laco_de_repeticao.dll
+C:\Users\jeiel.alves\Desktop\Univale\Prog II\Semana 2\Laço-repetição\laco_de_repeticao\obj\Debug\net5.0\ref\laco_de_repeticao.dll
+C:\Users\jeiel.alves\Desktop\Univale\Prog II\Semana 2\Laço-repetição\laco_de_repeticao\obj\Debug\net5.0\laco_de_repeticao.pdb
+C:\Users\jeiel.alves\Desktop\Univale\Prog II\Semana 2\Laço-repetição\laco_de_repeticao\obj\Debug\net5.0\laco_de_repeticao.genruntimeconfig.cache

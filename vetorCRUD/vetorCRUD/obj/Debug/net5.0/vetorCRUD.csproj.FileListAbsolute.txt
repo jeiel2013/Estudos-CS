@@ -1,0 +1,16 @@
+C:\Users\jeiel.alves\Desktop\Univale\Prog II\Semana 2\vetorCRUD\vetorCRUD\bin\Debug\net5.0\vetorCRUD.exe
+C:\Users\jeiel.alves\Desktop\Univale\Prog II\Semana 2\vetorCRUD\vetorCRUD\bin\Debug\net5.0\vetorCRUD.deps.json
+C:\Users\jeiel.alves\Desktop\Univale\Prog II\Semana 2\vetorCRUD\vetorCRUD\bin\Debug\net5.0\vetorCRUD.runtimeconfig.json
+C:\Users\jeiel.alves\Desktop\Univale\Prog II\Semana 2\vetorCRUD\vetorCRUD\bin\Debug\net5.0\vetorCRUD.runtimeconfig.dev.json
+C:\Users\jeiel.alves\Desktop\Univale\Prog II\Semana 2\vetorCRUD\vetorCRUD\bin\Debug\net5.0\vetorCRUD.dll
+C:\Users\jeiel.alves\Desktop\Univale\Prog II\Semana 2\vetorCRUD\vetorCRUD\bin\Debug\net5.0\ref\vetorCRUD.dll
+C:\Users\jeiel.alves\Desktop\Univale\Prog II\Semana 2\vetorCRUD\vetorCRUD\bin\Debug\net5.0\vetorCRUD.pdb
+C:\Users\jeiel.alves\Desktop\Univale\Prog II\Semana 2\vetorCRUD\vetorCRUD\obj\Debug\net5.0\vetorCRUD.csproj.AssemblyReference.cache
+C:\Users\jeiel.alves\Desktop\Univale\Prog II\Semana 2\vetorCRUD\vetorCRUD\obj\Debug\net5.0\vetorCRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeiel.alves\Desktop\Univale\Prog II\Semana 2\vetorCRUD\vetorCRUD\obj\Debug\net5.0\vetorCRUD.AssemblyInfoInputs.cache
+C:\Users\jeiel.alves\Desktop\Univale\Prog II\Semana 2\vetorCRUD\vetorCRUD\obj\Debug\net5.0\vetorCRUD.AssemblyInfo.cs
+C:\Users\jeiel.alves\Desktop\Univale\Prog II\Semana 2\vetorCRUD\vetorCRUD\obj\Debug\net5.0\vetorCRUD.csproj.CoreCompileInputs.cache
+C:\Users\jeiel.alves\Desktop\Univale\Prog II\Semana 2\vetorCRUD\vetorCRUD\obj\Debug\net5.0\vetorCRUD.dll
+C:\Users\jeiel.alves\Desktop\Univale\Prog II\Semana 2\vetorCRUD\vetorCRUD\obj\Debug\net5.0\ref\vetorCRUD.dll
+C:\Users\jeiel.alves\Desktop\Univale\Prog II\Semana 2\vetorCRUD\vetorCRUD\obj\Debug\net5.0\vetorCRUD.pdb
+C:\Users\jeiel.alves\Desktop\Univale\Prog II\Semana 2\vetorCRUD\vetorCRUD\obj\Debug\net5.0\vetorCRUD.genruntimeconfig.cache

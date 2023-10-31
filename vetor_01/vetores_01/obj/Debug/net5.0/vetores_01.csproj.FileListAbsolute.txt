@@ -1,0 +1,16 @@
+C:\Users\jeiel.alves\Desktop\Univale\Prog II\Semana 2\vetor_01\vetores_01\bin\Debug\net5.0\vetores_01.exe
+C:\Users\jeiel.alves\Desktop\Univale\Prog II\Semana 2\vetor_01\vetores_01\bin\Debug\net5.0\vetores_01.deps.json
+C:\Users\jeiel.alves\Desktop\Univale\Prog II\Semana 2\vetor_01\vetores_01\bin\Debug\net5.0\vetores_01.runtimeconfig.json
+C:\Users\jeiel.alves\Desktop\Univale\Prog II\Semana 2\vetor_01\vetores_01\bin\Debug\net5.0\vetores_01.runtimeconfig.dev.json
+C:\Users\jeiel.alves\Desktop\Univale\Prog II\Semana 2\vetor_01\vetores_01\bin\Debug\net5.0\vetores_01.dll
+C:\Users\jeiel.alves\Desktop\Univale\Prog II\Semana 2\vetor_01\vetores_01\bin\Debug\net5.0\ref\vetores_01.dll
+C:\Users\jeiel.alves\Desktop\Univale\Prog II\Semana 2\vetor_01\vetores_01\bin\Debug\net5.0\vetores_01.pdb
+C:\Users\jeiel.alves\Desktop\Univale\Prog II\Semana 2\vetor_01\vetores_01\obj\Debug\net5.0\vetores_01.csproj.AssemblyReference.cache
+C:\Users\jeiel.alves\Desktop\Univale\Prog II\Semana 2\vetor_01\vetores_01\obj\Debug\net5.0\vetores_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeiel.alves\Desktop\Univale\Prog II\Semana 2\vetor_01\vetores_01\obj\Debug\net5.0\vetores_01.AssemblyInfoInputs.cache
+C:\Users\jeiel.alves\Desktop\Univale\Prog II\Semana 2\vetor_01\vetores_01\obj\Debug\net5.0\vetores_01.AssemblyInfo.cs
+C:\Users\jeiel.alves\Desktop\Univale\Prog II\Semana 2\vetor_01\vetores_01\obj\Debug\net5.0\vetores_01.csproj.CoreCompileInputs.cache
+C:\Users\jeiel.alves\Desktop\Univale\Prog II\Semana 2\vetor_01\vetores_01\obj\Debug\net5.0\vetores_01.dll
+C:\Users\jeiel.alves\Desktop\Univale\Prog II\Semana 2\vetor_01\vetores_01\obj\Debug\net5.0\ref\vetores_01.dll
+C:\Users\jeiel.alves\Desktop\Univale\Prog II\Semana 2\vetor_01\vetores_01\obj\Debug\net5.0\vetores_01.pdb
+C:\Users\jeiel.alves\Desktop\Univale\Prog II\Semana 2\vetor_01\vetores_01\obj\Debug\net5.0\vetores_01.genruntimeconfig.cache
