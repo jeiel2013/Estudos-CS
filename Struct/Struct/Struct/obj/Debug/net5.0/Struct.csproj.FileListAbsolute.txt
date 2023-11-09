@@ -1,0 +1,16 @@
+C:\Users\jeiel.alves\Desktop\Univale\Prog II\Semana 2\Struct\Struct\bin\Debug\net5.0\Struct.exe
+C:\Users\jeiel.alves\Desktop\Univale\Prog II\Semana 2\Struct\Struct\bin\Debug\net5.0\Struct.deps.json
+C:\Users\jeiel.alves\Desktop\Univale\Prog II\Semana 2\Struct\Struct\bin\Debug\net5.0\Struct.runtimeconfig.json
+C:\Users\jeiel.alves\Desktop\Univale\Prog II\Semana 2\Struct\Struct\bin\Debug\net5.0\Struct.runtimeconfig.dev.json
+C:\Users\jeiel.alves\Desktop\Univale\Prog II\Semana 2\Struct\Struct\bin\Debug\net5.0\Struct.dll
+C:\Users\jeiel.alves\Desktop\Univale\Prog II\Semana 2\Struct\Struct\bin\Debug\net5.0\ref\Struct.dll
+C:\Users\jeiel.alves\Desktop\Univale\Prog II\Semana 2\Struct\Struct\bin\Debug\net5.0\Struct.pdb
+C:\Users\jeiel.alves\Desktop\Univale\Prog II\Semana 2\Struct\Struct\obj\Debug\net5.0\Struct.csproj.AssemblyReference.cache
+C:\Users\jeiel.alves\Desktop\Univale\Prog II\Semana 2\Struct\Struct\obj\Debug\net5.0\Struct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeiel.alves\Desktop\Univale\Prog II\Semana 2\Struct\Struct\obj\Debug\net5.0\Struct.AssemblyInfoInputs.cache
+C:\Users\jeiel.alves\Desktop\Univale\Prog II\Semana 2\Struct\Struct\obj\Debug\net5.0\Struct.AssemblyInfo.cs
+C:\Users\jeiel.alves\Desktop\Univale\Prog II\Semana 2\Struct\Struct\obj\Debug\net5.0\Struct.csproj.CoreCompileInputs.cache
+C:\Users\jeiel.alves\Desktop\Univale\Prog II\Semana 2\Struct\Struct\obj\Debug\net5.0\Struct.dll
+C:\Users\jeiel.alves\Desktop\Univale\Prog II\Semana 2\Struct\Struct\obj\Debug\net5.0\ref\Struct.dll
+C:\Users\jeiel.alves\Desktop\Univale\Prog II\Semana 2\Struct\Struct\obj\Debug\net5.0\Struct.pdb
+C:\Users\jeiel.alves\Desktop\Univale\Prog II\Semana 2\Struct\Struct\obj\Debug\net5.0\Struct.genruntimeconfig.cache
