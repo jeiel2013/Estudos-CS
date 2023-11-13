@@ -20,7 +20,7 @@ class Program
         };
 
         Console.WriteLine("Para solicitar a quantidade de pessoas do sexo esclhido, aperte 'F' (feminino) ou 'M' (masculino): ");
-        char sexoEscolhido = Console.ReadLine();
+        char sexoEscolhido = Console.ReadLine().ToUpper();
 
         int resultado = quantidadeSexo(pessoas, sexoEscolhido);
         if (resultado == -1)
